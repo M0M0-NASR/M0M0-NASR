@@ -4,8 +4,7 @@
 <p>🚀 excited about innovative ideas 💡</p>
 <p>📫 feel free to ask me bro📧</p>
 
-<a href="https://www.github.com/M0M0-NASR" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/M0M0-NASR?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
+
 
 
 ### Skills
@@ -18,3 +17,12 @@ src="https://img.shields.io/github/followers/M0M0-NASR?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.github.com//M0M0-NASR" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mohamed-nasr-3a774627b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/M0M0-NASR"><img src="https://github-readme-stats.vercel.app/api?username=M0M0-NASR&show_icons=true&hide=stars,contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="M0M0-NASR's GitHub stats" /></a>
+
+<a href="http://www.github.com/M0M0-NASR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M0M0-NASR&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
