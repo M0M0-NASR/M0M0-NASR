@@ -1,8 +1,13 @@
-🌍 Hi there, you landed on Mohamed Nasr's Profile 💖
-💻 hardworking backend developer 🎼
-🚀 excited about innovative ideas 💡
 
-
+<p>🌍 Hi there, you landed on Mohamed Nasr's Profile 💖</p>
+<br>
+<p>💻 hardworking backend developer 🎼</p>
+<br>
+<pr>🚀 excited about innovative ideas 💡</pr>
+<br>
+<p>📫f eel free to ask me 📧</p>
+<br>
+<br>
 ### Skills
 
 
