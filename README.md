@@ -4,7 +4,8 @@
 <p>🚀 excited about innovative ideas 💡</p>
 <p>📫 feel free to ask me bro📧</p>
 
-
+<a href="https://www.github.com/M0M0-NASR" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/M0M0-NASR?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
 
 
 ### Skills
