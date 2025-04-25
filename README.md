@@ -25,4 +25,4 @@
 
 <a href="http://www.github.com/M0M0-NASR"><img src="https://github-readme-stats.vercel.app/api?username=M0M0-NASR&show_icons=true&hide=stars,contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="M0M0-NASR's GitHub stats" /></a>
 
-<a href="http://www.github.com/M0M0-NASR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M0M0-NASR&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=M0M0-NASR" alt="GitHub Streak" /></a>
